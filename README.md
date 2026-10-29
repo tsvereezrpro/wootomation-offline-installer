@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Keyboard+Automation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Wootomation Free Installer** — Wootomation is an advanced scripting and automation tool designed for Wooting analog keyboards. Works without internet access, no account required. Full offline installation.
+**💻 Wootomation Free Installer** — Wootomation is a companion application for Wooting keyboards that enables macro recording, analog-to-digital input customization, and automation workflows using the keyboard's analog sensing capabilities. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Wootomation
 
-Wootomation is an advanced scripting and automation tool designed for Wooting analog keyboards. It uses the analog input capabilities of Wooting hardware to create precise, pressure-sensitive macros and game automation scripts that respond to key pressure.
+Wootomation is a companion application for Wooting keyboards that enables macro recording, analog-to-digital input customization, and automation workflows using the keyboard's analog sensing capabilities. Create complex automation sequences triggered by key combinations or analog input thresholds, enabling gaming macros, accessibility features, and productivity automations specific to Wooting hardware.
 
 ---
 
 ## ❌ Problem: Wootomation is hard to access
 
-- **Wooting Exclusive** — Only works with Wooting analog mechanical keyboards
-- **Scripting Required** — Advanced automation requires learning the tool's scripting language
-- **Anti-Cheat Risk** — Game automation may violate terms of service in competitive games
-- **Niche Audience** — Only useful for the specific Wooting keyboard user base
+- **Wooting Hardware Required** — No value without a Wooting analog keyboard
+- **Technical Complexity** — Advanced automation features require understanding of analog input concepts
+- **Platform Support** — Windows primary
+- **Learning Curve** — Macro programming requires time investment for complex automations
 
 ---
 
@@ -121,7 +121,7 @@ Wootomation is an advanced scripting and automation tool designed for Wooting an
 
 ---
 
-**Wootomation Free Installer** — Wootomation is an advanced scripting and automation tool designed for Wooting analog keyboards. Install without internet connection today!
+**Wootomation Free Installer** — Wootomation is a companion application for Wooting keyboards that enables macro recording, analog-to-digital input customization, and automation workflows using the keyboard's analog sensing capabilities. Install without internet connection today!
 
 <div align="center">
 
